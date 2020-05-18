@@ -1,0 +1,15 @@
+Callicarpa_japonica
+Clinopodium_uhligii
+Colquhounia_coccinea
+Colquhounia_elegans
+Galeopsis_bifida
+Galeopsis_ladanum_subsp._angustifolia
+Galeopsis_speciosa
+Galeopsis_tetrahit
+Gmelina_fasciculiflora
+Premna_odorata
+Premna_subglabra
+Stachys_officinalis
+Tectona_grandis
+Teucrium_scorodonia
+Ziziphora_hispanica

@@ -1,0 +1,6 @@
+ott313745 Pogostemon_hirsutus
+ott313745 Pogostemon_wightii
+ott938294 Sideritis_endressii
+ott938294 Sideritis_laxispicata
+ott1090266 Vitex_bojeri
+ott1090266 Vitex_ferruginea

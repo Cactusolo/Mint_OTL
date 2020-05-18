@@ -1,0 +1,16 @@
+ott523665 Callicarpa_japonica
+ott1029904 Clinopodium_uhligii
+ott391817 Clinopodium_uhligii_var._obtusifolium
+ott777373 Colquhounia_coccinea
+ott679483 Colquhounia_elegans
+ott391749 Galeopsis_bifida
+ott777382 Galeopsis_ladanum_subsp._angustifolia
+ott156200 Galeopsis_speciosa
+ott1066887 Galeopsis_tetrahit
+ott5232606 Gmelina_fasciculiflora
+ott143606 Premna_odorata
+ott441841 Premna_subglabra
+ott103745 Stachys_officinalis
+ott738848 Tectona_grandis
+ott382149 Teucrium_scorodonia
+ott1040512 Ziziphora_hispanica

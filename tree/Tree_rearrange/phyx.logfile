@@ -1,0 +1,3 @@
+pxrmt -t OPT_Mint_speciesname_BR_5212_Oct162018.tre -f Peronematiodeae_list.txt
+pxrmt -t OPT_Mint_speciesname_BR_5212_Oct162018.tre -f Peronematiodeae_list.txt
+pxt2new -t OPT_mint_v1.tmp
